@@ -47,3 +47,5 @@ Du côté du serveur, car oui, il y en aura un. Au moins, pour l'instant
   - [ ] ~~Browser~~ pas prévu pour des raisons de sécurité.
   
 Pour l'instant, c'est tout ce que j'ai en tête, mais cela pourrait changer bientôt, donc, restez à l'écoute.
+
+Made using [Deepl](https://www.deepl.com/translator)
