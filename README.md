@@ -1,6 +1,6 @@
 # Frostscale Dragonspawn
 
-The goal of this project is to create a safe environment where anyone can be theimselves without any filters, riscs, or anything. 
+The goal of this project is to create a safe environment where anyone can be themselves without any filters, risks, or anything. 
 My objectives are simple and very hard to do. And here they are for now:
 
 On the server side, because yes, there will be one. At least, for now
@@ -11,9 +11,9 @@ On the server side, because yes, there will be one. At least, for now
   - [ ] An economic system based on eth or other.
   - [ ] User management
   - [ ] "Cyber Police"
-  - [ ] Secures cloud sync (optionnal for users)
+  - [ ] Secures cloud sync (optional for users)
   - [ ] Contact system
-  - [ ] Instant messagery
+  - [ ] Instant messages
     > Short messages, no file exept images with low quality. Host need to be online.
   - [ ] e-mails
     > Long message with optionnal files up to 25Mb each, 10 files max, 100Mb total max
@@ -39,11 +39,11 @@ On the server side, because yes, there will be one. At least, for now
     - [ ] iOS
       - [ ] App store
     - [ ] Android
-      - [ ] PlayStore
+      - [ ] Play Store
       - [ ] Amazon Appstore
       - [ ] F-Droid
       - [ ] Samsung Galaxy Store, Mi Store
       - [ ] Huawei AppGallery
-  - [ ] ~~Browser~~ not planning to do to security resons.
+  - [ ] ~~Browser~~ not planning to do to security reasons.
   
 For now this is all I have in mind, but it could change soon so, stay tuned.
