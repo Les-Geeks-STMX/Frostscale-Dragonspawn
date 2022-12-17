@@ -1,5 +1,6 @@
 # Frostscale Dragonspawn
 
+### [:de: Deutsch](markdown/deutsch/README.md)  [:clipperton_island: Français](markdown/french/README.md)  [:es: Español](markdown/español/README.md)<br>
 The goal of this project is to create a safe environment where anyone can be themselves without any filters, risks, or anything. 
 My objectives are simple and very hard to do. And here they are for now:
 
